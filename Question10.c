@@ -1,3 +1,11 @@
+/*
+   Write a C program to convert a given integer (in seconds) to hours, minutes and seconds. 
+   Test Data : 
+    Input seconds: 25300 
+   Expected Output: 
+    There are: 
+    H:M:S - 7:1:40 
+*/
 #include<stdio.h>
 int main(){
 	//Variable Declarating

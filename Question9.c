@@ -1,3 +1,19 @@
+/*
+  Write a C program to read an amount (integer value) and break the amount into smallest possible 
+  number of bank notes. 
+  Note: The possible banknotes are 100, 50, 20, 10, 5, 2 and 1. 
+        Test Data : 
+        Input the amount: 375 
+    Expected Output: 
+    There are: 
+    3 Note(s) of 100.00 
+    1 Note(s) of 50.00 
+    1 Note(s) of 20.00 
+    0 Note(s) of 10.00 
+    1 Note(s) of 5.00 
+    0 Note(s) of 2.00 
+    0 Note(s) of 1.00
+*/
 #include<stdio.h>
 int main(){
 	//Variable Declarating

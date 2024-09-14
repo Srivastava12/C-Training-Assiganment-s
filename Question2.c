@@ -1,3 +1,10 @@
+/*
+  Write a C program to read and display all type of variables. 
+  Expected Output: 
+    123 
+    34.67 
+    A
+*/
 #include<stdio.h>
 int main(){
 	int a=0;
